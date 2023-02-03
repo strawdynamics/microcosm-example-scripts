@@ -1,0 +1,3 @@
+{
+  "description": "Perlin noise terrain generation. Generates a 64×64 section of the world at z=0 on each use, snapped to that grid."
+}
